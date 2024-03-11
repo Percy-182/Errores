@@ -11,7 +11,7 @@ En este proyecto por nombre " Desafío - Datos de Usuarios, se mostrará al usua
 Estas instrucciones te guiarán para obtener una copia de este proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
 ```bash
-git clone url-github
+git clone git@github.com:Percy-182/Errores.git
 ```
 
 ### Prerrequisitos 📋
